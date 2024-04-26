@@ -1,4 +1,4 @@
-module excelprocessor
+module github.com/fruitbars/excelprocessor
 
 go 1.18
 
